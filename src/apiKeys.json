@@ -1,0 +1,11 @@
+{
+    "firebaseKeys" : {
+    "apiKey": "AIzaSyCuFhMxJsRpPXYY18tB8V8-ajajUreSuXA",
+    "authDomain": "nikhil-personal-bio-react.firebaseapp.com",
+    "databaseURL": "https://nikhil-personal-bio-react.firebaseio.com",
+    "projectId": "nikhil-personal-bio-react",
+    "storageBucket": "nikhil-personal-bio-react.appspot.com",
+    "messagingSenderId": "1037050178132",
+    "appId": "1:1037050178132:web:2f19792122d41376e3dbc1"
+  }
+}
